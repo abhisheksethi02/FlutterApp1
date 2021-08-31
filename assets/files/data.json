@@ -1,0 +1,952 @@
+{
+  "Rate List": [
+    {
+      "Code": "N-100",
+      "Item ": "Zoom 6A. 1-Way Switch Economy",
+      "PKG.": "40",
+      "Rate ": "540"
+    },
+    {
+      "Code": "N-101",
+      "Item ": "Zoom 6A. 1-Way Switch Dolly",
+      "PKG.": "20",
+      "Rate ": "340"
+    },
+    {
+      "Code": "N-101A",
+      "Item ": "Zoom 6A. 1-Way Switch Rocker",
+      "PKG.": "20",
+      "Rate ": "380"
+    },
+    {
+      "Code": "N-102",
+      "Item ": "Zoom 6A. 2-Way Switch",
+      "PKG.": "20",
+      "Rate ": "440"
+    },
+    {
+      "Code": "N-103",
+      "Item ": "Zoom Bell Push",
+      "PKG.": "20",
+      "Rate ": "440"
+    },
+    {
+      "Code": "N-104",
+      "Item ": "Zoom 16A. 1-Way Switch",
+      "PKG.": "20",
+      "Rate ": "600"
+    },
+    {
+      "Code": "N-105",
+      "Item ": "Zoom 16A. 2-Way Switch",
+      "PKG.": "20",
+      "Rate ": "760"
+    },
+    {
+      "Code": "N-104A",
+      "Item ": "Zoom 25A. 1-Way Switch",
+      "PKG.": "20",
+      "Rate ": "1000"
+    },
+    {
+      "Code": "NF-01",
+      "Item ": "Flat 6A. 1-Way Switch",
+      "PKG.": "20",
+      "Rate ": "420"
+    },
+    {
+      "Code": "NF-02",
+      "Item ": "Flat 6A. 2-Way Switch",
+      "PKG.": "20",
+      "Rate ": "560"
+    },
+    {
+      "Code": "NF-03",
+      "Item ": "Flat Bell Push",
+      "PKG.": "20",
+      "Rate ": "480"
+    },
+    {
+      "Code": "NF-04",
+      "Item ": "Flat 16A. 1-Way Switch",
+      "PKG.": "20",
+      "Rate ": "640"
+    },
+    {
+      "Code": "NF-05",
+      "Item ": "Flat 16A. 2-Way Switch",
+      "PKG.": "20",
+      "Rate ": "880"
+    },
+    {
+      "Code": "NG-01",
+      "Item ": "Grand 6A. 1-Way Switch",
+      "PKG.": "20",
+      "Rate ": "480"
+    },
+    {
+      "Code": "NG-02",
+      "Item ": "Grand 6A. 2-Way Switch",
+      "PKG.": "20",
+      "Rate ": "640"
+    },
+    {
+      "Code": "NG-03",
+      "Item ": "Grand Bell Push",
+      "PKG.": "20",
+      "Rate ": "480"
+    },
+    {
+      "Code": "NG-04",
+      "Item ": "Grand 16A. 1-Way Switch",
+      "PKG.": "20",
+      "Rate ": "600"
+    },
+    {
+      "Code": "NG-05",
+      "Item ": "Grand 16A. 2-Way Switch",
+      "PKG.": "20",
+      "Rate ": "800"
+    },
+    {
+      "Code": "N-106",
+      "Item ": "16A. 1-Way Switch 2 Module",
+      "PKG.": "10",
+      "Rate ": "560"
+    },
+    {
+      "Code": "N-108",
+      "Item ": "6A. Bell Push Fancy 2 Module",
+      "PKG.": "10",
+      "Rate ": "520"
+    },
+    {
+      "Code": "N-109",
+      "Item ": "2-Pin Socket",
+      "PKG.": "20",
+      "Rate ": "380"
+    },
+    {
+      "Code": "N-111A",
+      "Item ": "6A. 5 Pin Socket Alpha (Porselein Back)",
+      "PKG.": "10",
+      "Rate ": "250"
+    },
+    {
+      "Code": "N-111B",
+      "Item ": "6A. 5 Pin Socket Deluxe",
+      "PKG.": "10",
+      "Rate ": "260"
+    },
+    {
+      "Code": "N-112",
+      "Item ": "16A. Multi Socket (With Shutter)",
+      "PKG.": "10",
+      "Rate ": "580"
+    },
+    {
+      "Code": "N-113",
+      "Item ": "16A. Multi Socket (Without Shutter)",
+      "PKG.": "10",
+      "Rate ": "520"
+    },
+    {
+      "Code": "N-114",
+      "Item ": "Indicator",
+      "PKG.": "20",
+      "Rate ": "440"
+    },
+    {
+      "Code": "N-115",
+      "Item ": "T.V. Socket",
+      "PKG.": "20",
+      "Rate ": "800"
+    },
+    {
+      "Code": "N-116",
+      "Item ": "Tel. jack (2 lane)",
+      "PKG.": "20",
+      "Rate ": "1000"
+    },
+    {
+      "Code": "N-117",
+      "Item ": "Blank Plate",
+      "PKG.": "100",
+      "Rate ": "300"
+    },
+    {
+      "Code": "N-117A",
+      "Item ": "Kit Kat Fuse",
+      "PKG.": "20",
+      "Rate ": "1280"
+    },
+    {
+      "Code": "N-117B",
+      "Item ": "USB Charger",
+      "PKG.": "20",
+      "Rate ": "5000"
+    },
+    {
+      "Code": "N-118",
+      "Item ": "Light Control Dimmer 300W",
+      "PKG.": "20",
+      "Rate ": "1400"
+    },
+    {
+      "Code": "N-120",
+      "Item ": "4 Step Zoom",
+      "PKG.": "20",
+      "Rate ": "1800"
+    },
+    {
+      "Code": "N-121",
+      "Item ": "5 Step Zoom",
+      "PKG.": "10",
+      "Rate ": "1100"
+    },
+    {
+      "Code": "N-121A",
+      "Item ": "4 Step Croma",
+      "PKG.": "20",
+      "Rate ": "2200"
+    },
+    {
+      "Code": "N-121B",
+      "Item ": "5 Step Croma",
+      "PKG.": "10",
+      "Rate ": "1400"
+    },
+    {
+      "Code": "N-122",
+      "Item ": "16A.-25A. Motor Starter",
+      "PKG.": "10",
+      "Rate ": "2000"
+    },
+    {
+      "Code": "N-123",
+      "Item ": "32A. D.P Switch",
+      "PKG.": "10",
+      "Rate ": "1300"
+    },
+    {
+      "Code": "N-148",
+      "Item ": "Reva 6A. 1-Way Switch Joy/Jolly",
+      "PKG.": "20",
+      "Rate ": "220"
+    },
+    {
+      "Code": "N-149",
+      "Item ": "Reva 6A. 2-Way Switch",
+      "PKG.": "20",
+      "Rate ": "280"
+    },
+    {
+      "Code": "N-150",
+      "Item ": "Reva 6A. Bell Push",
+      "PKG.": "20",
+      "Rate ": "248"
+    },
+    {
+      "Code": "N-151",
+      "Item ": "Reva Indicator",
+      "PKG.": "20",
+      "Rate ": "280"
+    },
+    {
+      "Code": "N-152",
+      "Item ": "Reva 6A. 2 Pin Socket",
+      "PKG.": "20",
+      "Rate ": "220"
+    },
+    {
+      "Code": "N-153",
+      "Item ": "Reva 6A. 5 Pin Socket",
+      "PKG.": "10",
+      "Rate ": "220"
+    },
+    {
+      "Code": "N-154",
+      "Item ": "Reva 10 Amp. Kit Kat Fuse",
+      "PKG.": "10",
+      "Rate ": "220"
+    },
+    {
+      "Code": "N-157",
+      "Item ": "Reva Switch Type Dimmer",
+      "PKG.": "10",
+      "Rate ": "700"
+    },
+    {
+      "Code": "N-158",
+      "Item ": "Reva 4 Step Regulator",
+      "PKG.": "10",
+      "Rate ": "900"
+    },
+    {
+      "Code": "N-159",
+      "Item ": "Reva 5 Step Regulator",
+      "PKG.": "10",
+      "Rate ": "1100"
+    },
+    {
+      "Code": "N-160",
+      "Item ": "Reva 16A. 1-Way Switch",
+      "PKG.": "10",
+      "Rate ": "400"
+    },
+    {
+      "Code": "N-162",
+      "Item ": "Reva 6 & 16 A. Multi Socket",
+      "PKG.": "10",
+      "Rate ": "440"
+    },
+    {
+      "Code": "N-163",
+      "Item ": "Reva 16A. SS Combined",
+      "PKG.": "5",
+      "Rate ": "420"
+    },
+    {
+      "Code": "N-164",
+      "Item ": "Reva 16A. SS Combined with box",
+      "PKG.": "5",
+      "Rate ": "500"
+    },
+    {
+      "Code": "N-165",
+      "Item ": "Ceiling Rose Reva",
+      "PKG.": "20",
+      "Rate ": "300"
+    },
+    {
+      "Code": "N-166",
+      "Item ": "Ceiling Rose Coloured",
+      "PKG.": "20",
+      "Rate ": "360"
+    },
+    {
+      "Code": "N-167",
+      "Item ": "Ceiling Rose 4”x4” Nexa",
+      "PKG.": "20",
+      "Rate ": "1000"
+    },
+    {
+      "Code": "N-168",
+      "Item ": "Modular Batten Holder 4”x4”",
+      "PKG.": "10",
+      "Rate ": "500"
+    },
+    {
+      "Code": "N-169",
+      "Item ": "Modular Angle Holder 4”x4”",
+      "PKG.": "10",
+      "Rate ": "500"
+    },
+    {
+      "Code": "N-171",
+      "Item ": "Batten Fancy Holder",
+      "PKG.": "20",
+      "Rate ": "500"
+    },
+    {
+      "Code": "N-172",
+      "Item ": "Angle Fancy Holder",
+      "PKG.": "20",
+      "Rate ": "500"
+    },
+    {
+      "Code": "N-173",
+      "Item ": "Batten Fancy Holder (Coloured)",
+      "PKG.": "20",
+      "Rate ": "540"
+    },
+    {
+      "Code": "N-174",
+      "Item ": "Angle Fancy Holder (Coloured)",
+      "PKG.": "20",
+      "Rate ": "540"
+    },
+    {
+      "Code": "N-175",
+      "Item ": "Batten Holder Reva",
+      "PKG.": "20",
+      "Rate ": "360"
+    },
+    {
+      "Code": "N-176",
+      "Item ": "Angle Holder Reva",
+      "PKG.": "20",
+      "Rate ": "360"
+    },
+    {
+      "Code": "N-177",
+      "Item ": "Pendent Holder White Zoom",
+      "PKG.": "20",
+      "Rate ": "260"
+    },
+    {
+      "Code": "N-178",
+      "Item ": "Pendent Holder Black Zoom",
+      "PKG.": "20",
+      "Rate ": "250"
+    },
+    {
+      "Code": "N-180",
+      "Item ": "Skirt Holder Colored",
+      "PKG.": "20",
+      "Rate ": "300"
+    },
+    {
+      "Code": "N-181",
+      "Item ": "Skirt Holder White",
+      "PKG.": "20",
+      "Rate ": "300"
+    },
+    {
+      "Code": "N-182",
+      "Item ": "Pendent Holder Cute",
+      "PKG.": "20",
+      "Rate ": "190"
+    },
+    {
+      "Code": "N-183",
+      "Item ": "Multi Holder Cute",
+      "PKG.": "20",
+      "Rate ": "190"
+    },
+    {
+      "Code": "N-184",
+      "Item ": "Single Adaptor",
+      "PKG.": "30",
+      "Rate ": "330"
+    },
+    {
+      "Code": "N-185",
+      "Item ": "Burfi Holder",
+      "PKG.": "20",
+      "Rate ": "190"
+    },
+    {
+      "Code": "N-185A",
+      "Item ": "Sheet Holder",
+      "PKG.": "20",
+      "Rate ": "190"
+    },
+    {
+      "Code": "N-186",
+      "Item ": "2 Pin Top Reva",
+      "PKG.": "20",
+      "Rate ": "240"
+    },
+    {
+      "Code": "N-191",
+      "Item ": "2 Pin Top Rio",
+      "PKG.": "20",
+      "Rate ": "220"
+    },
+    {
+      "Code": "N-192",
+      "Item ": "2 Pin Top Sumo",
+      "PKG.": "20",
+      "Rate ": "140"
+    },
+    {
+      "Code": "N-195",
+      "Item ": "2 Pin Top Nice",
+      "PKG.": "20",
+      "Rate ": "160"
+    },
+    {
+      "Code": "N-202",
+      "Item ": "Male-Female Rio ",
+      "PKG.": "20",
+      "Rate ": "440"
+    },
+    {
+      "Code": "N-203",
+      "Item ": "Male-Female Sumo",
+      "PKG.": "20",
+      "Rate ": "280"
+    },
+    {
+      "Code": "N-206",
+      "Item ": "Male-Female Nice",
+      "PKG.": "20",
+      "Rate ": "320"
+    },
+    {
+      "Code": "N-208",
+      "Item ": "6A. 3 Pin Top Reva",
+      "PKG.": "20",
+      "Rate ": "540"
+    },
+    {
+      "Code": "N-209",
+      "Item ": "16A. 3 Pin Top Reva",
+      "PKG.": "10",
+      "Rate ": "540"
+    },
+    {
+      "Code": "N-210",
+      "Item ": "6A. 3 Pin Top Zoom",
+      "PKG.": "20",
+      "Rate ": "540"
+    },
+    {
+      "Code": "N-211",
+      "Item ": "16A. 3 Pin Top Zoom",
+      "PKG.": "10",
+      "Rate ": "540"
+    },
+    {
+      "Code": "N-212",
+      "Item ": "6A.3 Pin Top Apple",
+      "PKG.": "20",
+      "Rate ": "640"
+    },
+    {
+      "Code": "N-213",
+      "Item ": "16A. 3 Pin Top Apple",
+      "PKG.": "10",
+      "Rate ": "640"
+    },
+    {
+      "Code": "N-214",
+      "Item ": "5 Pin Multi Plug Nice",
+      "PKG.": "20",
+      "Rate ": "520"
+    },
+    {
+      "Code": "N-216",
+      "Item ": "Light to Power Multi Plug",
+      "PKG.": "10",
+      "Rate ": "640"
+    },
+    {
+      "Code": "N-217",
+      "Item ": "Conversion Multi Plug Zoom",
+      "PKG.": "10",
+      "Rate ": "420"
+    },
+    {
+      "Code": "N-219",
+      "Item ": "Bed Switch Joy",
+      "PKG.": "20",
+      "Rate ": "210"
+    },
+    {
+      "Code": "N-220",
+      "Item ": "Bed Switch Jolly",
+      "PKG.": "20",
+      "Rate ": "300"
+    },
+    {
+      "Code": "N-222",
+      "Item ": "D.P. Switch Nexa (Heavy)",
+      "PKG.": "5",
+      "Rate ": "530"
+    },
+    {
+      "Code": "N-224",
+      "Item ": "6 A. Combined with Box",
+      "PKG.": "10",
+      "Rate ": "560"
+    },
+    {
+      "Code": "N-163",
+      "Item ": "16A. SS Combined",
+      "PKG.": "5",
+      "Rate ": "420"
+    },
+    {
+      "Code": "N-164",
+      "Item ": "16A. SS Combined with box",
+      "PKG.": "5",
+      "Rate ": "500"
+    },
+    {
+      "Code": "N-228",
+      "Item ": "Heater Element (1000W)",
+      "PKG.": "10",
+      "Rate ": "210"
+    },
+    {
+      "Code": "N-229",
+      "Item ": "Heater Element (1500W)",
+      "PKG.": "10",
+      "Rate ": "300"
+    },
+    {
+      "Code": "N-230",
+      "Item ": "Heater Element (2000W)",
+      "PKG.": "10",
+      "Rate ": "400"
+    },
+    {
+      "Code": "N-231",
+      "Item ": "Heater Element (3000W)",
+      "PKG.": "10",
+      "Rate ": "460"
+    },
+    {
+      "Code": "N-236",
+      "Item ": "Line Tester Greeno",
+      "PKG.": "20",
+      "Rate ": "380"
+    },
+    {
+      "Code": "N-237",
+      "Item ": "Line Tester Sathi",
+      "PKG.": "20",
+      "Rate ": "480"
+    },
+    {
+      "Code": "N-238",
+      "Item ": "Line Tester Double Light",
+      "PKG.": "20",
+      "Rate ": "480"
+    },
+    {
+      "Code": "N-247",
+      "Item ": "Power Strip 4+4",
+      "PKG.": "12",
+      "Rate ": "3600"
+    },
+    {
+      "Code": "NZ- 01",
+      "Item ": "1 Module Zoom White",
+      "PKG.": "20",
+      "Rate ": "520"
+    },
+    {
+      "Code": "NZ- 02",
+      "Item ": "2 Module Zoom White",
+      "PKG.": "20",
+      "Rate ": "520"
+    },
+    {
+      "Code": "NZ- 03",
+      "Item ": "3 Module Zoom White",
+      "PKG.": "20",
+      "Rate ": "600"
+    },
+    {
+      "Code": "NZ- 04",
+      "Item ": "4 Module Zoom White",
+      "PKG.": "20",
+      "Rate ": "740"
+    },
+    {
+      "Code": "NZ- 05",
+      "Item ": "6 Module Zoom White",
+      "PKG.": "10",
+      "Rate ": "500"
+    },
+    {
+      "Code": "NZ- 06",
+      "Item ": "8 Module H  Zoom White",
+      "PKG.": "10",
+      "Rate ": "540"
+    },
+    {
+      "Code": "NZ- 07",
+      "Item ": "8 Module Square Zoom White",
+      "PKG.": "10",
+      "Rate ": "540"
+    },
+    {
+      "Code": "NZ- 08",
+      "Item ": "12 Module Zoom White",
+      "PKG.": "10",
+      "Rate ": "680"
+    },
+    {
+      "Code": "NZ- 09",
+      "Item ": "18 Module Zoom White",
+      "PKG.": "5",
+      "Rate ": "650"
+    },
+    {
+      "Code": "NB-01",
+      "Item ": "1 Module Black & White",
+      "PKG.": "20",
+      "Rate ": "580"
+    },
+    {
+      "Code": "NB-02",
+      "Item ": "2 Module Black & White",
+      "PKG.": "20",
+      "Rate ": "580"
+    },
+    {
+      "Code": "NB-03",
+      "Item ": "3 Module Black & White",
+      "PKG.": "20",
+      "Rate ": "700"
+    },
+    {
+      "Code": "NB-04",
+      "Item ": "4 Module Black & White",
+      "PKG.": "20",
+      "Rate ": "780"
+    },
+    {
+      "Code": "NB-05",
+      "Item ": "6 Module Black & White",
+      "PKG.": "10",
+      "Rate ": "560"
+    },
+    {
+      "Code": "NB-06",
+      "Item ": "8 Module H  Black & White",
+      "PKG.": "10",
+      "Rate ": "620"
+    },
+    {
+      "Code": "NB-07",
+      "Item ": "8 Module Square Black & White",
+      "PKG.": "10",
+      "Rate ": "620"
+    },
+    {
+      "Code": "NB-08",
+      "Item ": "12 Module Black & White",
+      "PKG.": "10",
+      "Rate ": "800"
+    },
+    {
+      "Code": "NB-09",
+      "Item ": "18 Module Black & White",
+      "PKG.": "5",
+      "Rate ": "600"
+    },
+    {
+      "Code": "NS-01",
+      "Item ": "1 Module Silver",
+      "PKG.": "20",
+      "Rate ": "660"
+    },
+    {
+      "Code": "NS-02",
+      "Item ": "2 Module Silver",
+      "PKG.": "20",
+      "Rate ": "660"
+    },
+    {
+      "Code": "NS-03",
+      "Item ": "3 Module Silver",
+      "PKG.": "20",
+      "Rate ": "820"
+    },
+    {
+      "Code": "NS-04",
+      "Item ": "4 Module Silver",
+      "PKG.": "20",
+      "Rate ": "940"
+    },
+    {
+      "Code": "NS-05",
+      "Item ": "6 Module Silver",
+      "PKG.": "10",
+      "Rate ": "680"
+    },
+    {
+      "Code": "NS-06",
+      "Item ": "8 Module H  Silver",
+      "PKG.": "10",
+      "Rate ": "780"
+    },
+    {
+      "Code": "NS-07",
+      "Item ": "8 Module Square Silver",
+      "PKG.": "10",
+      "Rate ": "780"
+    },
+    {
+      "Code": "NS-08",
+      "Item ": "12 Module Silver",
+      "PKG.": "10",
+      "Rate ": "1040"
+    },
+    {
+      "Code": "NS-09",
+      "Item ": "18 Module Silver",
+      "PKG.": "5",
+      "Rate ": "780"
+    },
+    {
+      "Code": "N-259",
+      "Item ": "Cable Clips 4mm",
+      "PKG.": "1000",
+      "Rate ": "105"
+    },
+    {
+      "Code": "N-260",
+      "Item ": "Cable Clips 5mm",
+      "PKG.": "1000",
+      "Rate ": "120"
+    },
+    {
+      "Code": "N-261",
+      "Item ": "Cable Clips 6mm",
+      "PKG.": "1000",
+      "Rate ": "144"
+    },
+    {
+      "Code": "N-262",
+      "Item ": "Cable Clips 7mm",
+      "PKG.": "1000",
+      "Rate ": "168"
+    },
+    {
+      "Code": "N-263",
+      "Item ": "Cable Clips 8mm",
+      "PKG.": "1000",
+      "Rate ": "190"
+    },
+    {
+      "Code": "N-264",
+      "Item ": "Cable Clips 9mm",
+      "PKG.": "1000",
+      "Rate ": "260"
+    },
+    {
+      "Code": "N-265",
+      "Item ": "Cable Clips 10mm",
+      "PKG.": "500",
+      "Rate ": "137"
+    },
+    {
+      "Code": "N-266",
+      "Item ": "Cable Clips 12mm",
+      "PKG.": "500",
+      "Rate ": "180"
+    },
+    {
+      "Code": "N-267",
+      "Item ": "Cable Clips 14mm",
+      "PKG.": "500",
+      "Rate ": "270"
+    },
+    {
+      "Code": "N-268",
+      "Item ": "Cable Clips 16mm",
+      "PKG.": "500",
+      "Rate ": "290"
+    },
+    {
+      "Code": "N-269",
+      "Item ": "Cable Clips 18mm",
+      "PKG.": "100",
+      "Rate ": "60"
+    },
+    {
+      "Code": "N-270",
+      "Item ": "Cable Clips 20mm",
+      "PKG.": "100",
+      "Rate ": "60"
+    },
+    {
+      "Code": "N-271",
+      "Item ": "Cable Clips 25mm",
+      "PKG.": "100",
+      "Rate ": "90"
+    },
+    {
+      "Code": "N-272",
+      "Item ": "Cable Clips 32mm",
+      "PKG.": "50",
+      "Rate ": "130"
+    },
+    {
+      "Code": "N-273",
+      "Item ": "Cable Clips 40mm",
+      "PKG.": "25",
+      "Rate ": "105"
+    },
+    {
+      "Code": "N-274",
+      "Item ": "Round Button",
+      "PKG.": "1000",
+      "Rate ": "107"
+    },
+    {
+      "Code": "N-275",
+      "Item ": "Flat Button",
+      "PKG.": "1000",
+      "Rate ": "109"
+    },
+    {
+      "Code": "N-276",
+      "Item ": "20mm Double Nail",
+      "PKG.": "50",
+      "Rate ": "100"
+    },
+    {
+      "Code": "N-277",
+      "Item ": "25mm Double Nail",
+      "PKG.": "100",
+      "Rate ": "130"
+    },
+    {
+      "Code": "N-278",
+      "Item ": "35mm Wall Grip",
+      "PKG.": "50",
+      "Rate ": "100"
+    },
+    {
+      "Code": "N-279",
+      "Item ": "40mm Wall Grip",
+      "PKG.": "500",
+      "Rate ": "105"
+    },
+    {
+      "Code": "N-280",
+      "Item ": "3\"X3\" Round Sheet POP",
+      "PKG.": "40",
+      "Rate ": "1.5"
+    },
+    {
+      "Code": "N-281",
+      "Item ": "3.5\"X3.5\" Round Sheet White Lion",
+      "PKG.": "80",
+      "Rate ": "2.7"
+    },
+    {
+      "Code": "N-282",
+      "Item ": "3.5\"X3.5\" Round Sheet Radium",
+      "PKG.": "80",
+      "Rate ": "3.5"
+    },
+    {
+      "Code": "N-283",
+      "Item ": "4\"X4\" Square Box",
+      "PKG.": "48",
+      "Rate ": "3.65"
+    },
+    {
+      "Code": "N-284",
+      "Item ": "P.O.P. Fan Sheet 7\"X7\"",
+      "PKG.": "20",
+      "Rate ": "4.5"
+    },
+    {
+      "Code": "N-286",
+      "Item ": "Modular Fan Sheet 7\"X7\"",
+      "PKG.": "20",
+      "Rate ": "12"
+    },
+    {
+      "Code": "N-289",
+      "Item ": "1-2 Pole MCB Box Gold",
+      "PKG.": "10",
+      "Rate ": "10"
+    },
+    {
+      "Code": "N-290",
+      "Item ": "3-4 Pole MCB Box Gold",
+      "PKG.": "10",
+      "Rate ": "16"
+    }
+  ]
+}
